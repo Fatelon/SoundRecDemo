@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SoundRecDemo</string>
+    <string name="timer_start_value">00:00:00</string>
+</resources>
